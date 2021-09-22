@@ -10,7 +10,7 @@ public class Database {
 	
 	
 	private static final String USERNAME = "root";
-    private static final String PASSWORD = "1807";
+    private static final String PASSWORD = "pass123";
     private static final String JDBC_DRIVER= "com.mysql.cj.jdbc.Driver";
     private static final String DB_URL="jdbc:mysql://localhost/chatdatabase";   //
     public static PreparedStatement preparedStatement ;
